@@ -1,4 +1,3 @@
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -26,3 +25,4 @@ class GameFrameF extends JFrame {
         setVisible(true);
     }
 }
+
